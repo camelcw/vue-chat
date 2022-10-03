@@ -1,0 +1,8 @@
+node_modules
+.nuxt
+package-lock.json
+public
+src/types.ts
+src/**/__generated__
+graphql.schema.json
+server.js
